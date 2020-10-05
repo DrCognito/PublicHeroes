@@ -48,3 +48,10 @@ MANIFEST
 
 # Per-project virtualenvs
 .venv*/
+
+# Json cache
+src/json_providers/jsonCache/
+
+# Database files
+*.db
+
