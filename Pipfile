@@ -8,6 +8,9 @@ verify_ssl = true
 [packages]
 flake8 = "*"
 black = "*"
+sqlalchemy = "*"
+requests = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.8"
