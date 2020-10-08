@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+}
+.fixed{
+    background-color: black;
+    width: 500px;
+}
+.flex-item{
+    flex-grow: 1;
+}
+.hero_picked{
+    background-color: coral;
+}
