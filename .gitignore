@@ -55,3 +55,5 @@ src/json_providers/jsonCache/
 # Database files
 *.db
 
+# No vscode
+.vscode/
